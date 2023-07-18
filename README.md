@@ -1,6 +1,6 @@
 # LLMs and Data Pipelines: An Iterative Approach
 
-*** Abstract: Large language models (LLMs) have the potential to revolutionize data engineering making it a manageable process even for non-data scientists. Introducing LLMs into data engineering, however, brings new challenges such as a need for constant verification and quality control. In order to tackle such a process I have designed a methodology for using LLMs to build data pipelines. I demonstrate the methodology by giving the example of a mixed methods research process combined with NLP and GPT. ***
+_Abstract: Large language models (LLMs) have the potential to revolutionize data engineering making it a manageable process even for non-data scientists. Introducing LLMs into data engineering, however, brings new challenges such as a need for constant verification and quality control. In order to tackle such a process I have designed a methodology for using LLMs to build data pipelines. I demonstrate the methodology by giving the example of a mixed methods research process combined with NLP and GPT._
 
 
 ## Data Engineering with LLMs 
@@ -13,11 +13,11 @@ With the reduced technical challenges, the task of achieving the best possible d
 
 ## Iterative Methodology for LLM supported Data Pipeline Construction 
 
-In order to streamline the process of constructing a data pipeline with the support of an LLM, I have developed a respective iterative methodology, an example of which can be found in this [flow chart](https://miro.com/app/board/uXjVM5oQRrU=/) . The flow chart depicts a process supported by ChatGPT Plus (GPT-4). It also includes two accompanying OneNote notebooks. The first notebook is used as a primary project workspace. The second notebook captures thoughts and ideas that arise during the project but are out-of-scope. The latter notebook will be used to develop ideas for multiple use of the project and it’s data as well as for documenting best practices.  
+In order to streamline the process of constructing a data pipeline with the support of an LLM, I have developed a respective iterative methodology, an example of which can be found in this [flow chart](https://miro.com/app/board/uXjVM5oQRrU=/?share_link_id=552570215729) . The flow chart depicts a process supported by ChatGPT Plus (GPT-4). It also includes two accompanying OneNote notebooks. The first notebook is used as a primary project workspace. The second notebook captures thoughts and ideas that arise during the project but are out-of-scope. The latter notebook will be used to develop ideas for multiple use of the project and it’s data as well as for documenting best practices.  
 
 ## Case Study: PhD Thesis Process Using Mixed Methods, NLP, and GPT 
 
-The [flow chart](https://miro.com/app/board/uXjVM5oQRrU=/) provides a case study of crafting a PHD thesis using mixed methods research, NLP, and GPT given the technical possibilities as of July 2023. Although it illustrates my personal approach and stack, it can be configured according to each project’s needs and constraints, including considerations for the use of GPT, data privacy, and security. I want to emphasize that the proposed data pipeline in this project was not built around sensitive data. Respective laws and regulations have to be considered for each project individually.  
+The flow chart provides a case study of crafting a PHD thesis using mixed methods research, NLP, and GPT given the technical possibilities as of July 2023. Although it illustrates my personal approach and stack, it can be configured according to each project’s needs and constraints, including considerations for the use of GPT, data privacy, and security. I want to emphasize that the proposed data pipeline in this project was not built around sensitive data. Respective laws and regulations have to be considered for each project individually.  
 
 ## Incorporating Lessons from Recent and Past Project Experiences 
 
@@ -46,3 +46,11 @@ Incorporating LLMs into NLP scripts like the openAi API allows for new approache
 Qualitative data analysis has traditionally been a niche method known predominantely amongst anthropologists. Its approach of qualitative coding within software such as MaxQDA strongly resembles the IDEs used in computer and data science. The method is also close to annotating text data for supervised machine learning.  
 
 Knowing how to analyze different file formats from qualitative and quantitative points of view will become ever more important in the near future. This is because information today is no longer passed on primarily through books or newspapers: E.g. news are increasingly generated through social media, knowledge is passed on via video tutorials and discussions take place in podcasts. This increases the need for humans to critically assess all of these information. In addition, LLMs are breaking technical barriers for and closing technical knowledge gaps of content creators. As a result, I am expecting more voices to be heard via social media in the near future. Voices which were too vulnerable to participate in discussions before the introduction of publicly available LLMs. I am also expecting an increase of LLM-generated content which humans will have to assess critically. 
+
+**Links:**
+
+* Flow Chart: [LLMs and Data Pipelines](https://miro.com/app/board/uXjVM5oQRrU=/?share_link_id=552570215729)
+* Previous Porject: [Applying NLP in Requirements Engineering](https://github.com/tanwolf/NLP_Requirements-Engineering)
+* Diploma Thesis: ["Om sa fii"]([https://1drv.ms/b/s!AsSD_ioRrpmai0sJQoGWyQRoxWCR?e=DNDUSY](https://1drv.ms/b/s!AsSD_ioRrpmai0sJQoGWyQRoxWCR?e=YsP6K0))
+* OneNote Project Template: [Project Template](https://1drv.ms/o/s!AsSD_ioRrpmaizbbmHbAn16xLTOR?e=Y2dPks)
+* OneNote Project Management Template: [ Project Management Template](https://1drv.ms/o/s!AsSD_ioRrpmaiyVo9dKR6ndVQ26N?e=fOYugo)
