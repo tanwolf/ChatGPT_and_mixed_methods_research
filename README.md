@@ -1,6 +1,6 @@
 # LLMs and Data Pipelines: An Iterative Approach
 
-_Abstract: Large language models (LLMs) have the potential to revolutionize data engineering making it a manageable process even for non-data scientists. Introducing LLMs into data engineering, however, brings new challenges such as a need for constant verification and quality control. In order to tackle such a process I have designed a methodology for using LLMs to build data pipelines. I demonstrate the methodology by giving the example of a mixed methods research process combined with NLP and GPT._
+_**Abstract:** Large language models (LLMs) have the potential to revolutionize data engineering making it a manageable process even for non-data scientists. Introducing LLMs into data engineering, however, brings new challenges such as a need for constant verification and quality control. In order to tackle such a process I have designed a methodology for using LLMs to build data pipelines. I demonstrate the methodology by giving the example of a mixed methods research process combined with NLP and GPT._
 
 **Links:**
 
