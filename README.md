@@ -7,6 +7,7 @@ _**Abstract:** Large language models (LLMs) have the potential to revolutionize 
 * Flow Chart: [LLMs and Data Pipelines](https://miro.com/app/board/uXjVM5oQRrU=/?share_link_id=552570215729)
 * OneNote Project Template: [Project Template](https://1drv.ms/o/s!AsSD_ioRrpmaizbbmHbAn16xLTOR?e=Y2dPks)
 * OneNote Project Management Template: [ Project Management Template](https://1drv.ms/o/s!AsSD_ioRrpmaiyVo9dKR6ndVQ26N?e=fOYugo)
+* Medium Article: [LLM-Supported Data Pipeline Construction: An Iterative Approach](https://medium.com/@tanja_wolf/llm-supported-data-pipeline-construction-an-iterative-approach-77cb2401f7a5)
 
 ## Data Engineering with LLMs 
 
