@@ -29,7 +29,7 @@ The flow chart provides a case study of crafting a Ph.D. thesis using mixed meth
 
 The flow chart is based on experiences from a [recent NLP project](https://github.com/tanwolf/NLP_Requirements-Engineering) where I used ChatGPT Plus (GPT-4) to interpret the outcomes of classical NLP tasks, such as Latent Dirichlet Allocation (LDA) and entity recognition. I found that pairing NLP with GPT-4 comes close to qualitative data analysis and mixed methods research, especially concerning the naming of LDA topics and the interpretation of the combined findings from LDA and entity recognition.   
 
-Mixed methods research ingests and analyses qualitative as well as quantitative data in various formats. To design a flow chart of the research process I contrasted the recent project to my [diploma thesis](quadripolar_identity_model.pdf)  for which I used qualitative data analysis, well before the advent of modern-day data science and NLG.  
+Mixed methods research ingests and analyses qualitative as well as quantitative data in various formats. To design a flow chart of the research process I contrasted the recent project to my [diploma thesis]([quadripolar_identity_model.pdf](https://1drv.ms/b/s!AsSD_ioRrpmai0sJQoGWyQRoxWCR?e=JtlNrD))  for which I used qualitative data analysis, well before the advent of modern-day data science and NLG.  
 
 Having gone through a qualitative data analysis process without sophisticated software, made me understand that the main challenge is to prevent cognitive overload. Due to the multitude of unstructured data, various data types and formats, it is very challenging to put them into relation to each other and sum up findings. This difficulty increases with the size of the data or datasets.  
 
